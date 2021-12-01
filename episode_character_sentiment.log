@@ -3,25 +3,24 @@
 1636719135|sentiment|A|Pilot/Morty|0000FE
 1636719135|sentiment|A|Pilot/Jerry|0000F5
 1636719135|sentiment|A|Pilot/Beth|0000DB
-1636719135|sentiment|A|Pilot/Mr. Goldenfold|00009B
+1636719135|sentiment|A|Pilot/Summer|C40000
 1636805535|sentiment|A|Pilot/Anatomy Park/
 1636805535|sentiment|A|Pilot/Anatomy Park/Rick|0000CF
 1636805535|sentiment|A|Pilot/Anatomy Park/Morty|920000
 1636805535|sentiment|A|Pilot/Anatomy Park/Jerry|0000F5
-1636805535|sentiment|A|Pilot/Anatomy Park/Annie|0000CC
-1636805535|sentiment|A|Pilot/Anatomy Park/Dr. Bloom|000000
+1636805535|sentiment|A|Pilot/Anatomy Park/Beth|0000AE
+1636805535|sentiment|A|Pilot/Anatomy Park/Summer|7F0000
 1636891935|sentiment|A|Pilot/Anatomy Park/M. Night Shaym-Aliens!/
 1636891935|sentiment|A|Pilot/Anatomy Park/M. Night Shaym-Aliens!/Rick|0000FE
 1636891935|sentiment|A|Pilot/Anatomy Park/M. Night Shaym-Aliens!/Morty|0000E8
 1636891935|sentiment|A|Pilot/Anatomy Park/M. Night Shaym-Aliens!/Jerry|0000FB
-1636891935|sentiment|A|Pilot/Anatomy Park/M. Night Shaym-Aliens!/Prince Nebulon|0000FC
-1636891935|sentiment|A|Pilot/Anatomy Park/M. Night Shaym-Aliens!/Mr. Marklevitz|0000F4
+1636891935|sentiment|A|Pilot/Anatomy Park/M. Night Shaym-Aliens!/Beth|0000B2
 1636978335|sentiment|A|Meeseeks and Destroy/
 1636978335|sentiment|A|Meeseeks and Destroy/Rick|0000FC
 1636978335|sentiment|A|Meeseeks and Destroy/Morty|0000FE
 1636978335|sentiment|A|Meeseeks and Destroy/Jerry|C00000
 1636978335|sentiment|A|Meeseeks and Destroy/Beth|0000F6
-1636978335|sentiment|A|Meeseeks and Destroy/Meeseeks|F40000
+1636978335|sentiment|A|Meeseeks and Destroy/Summer|0000F2
 1637064735|sentiment|A|Meeseeks and Destroy/Rixty Minutes/
 1637064735|sentiment|A|Meeseeks and Destroy/Rixty Minutes/Jerry|0000FA
 1637064735|sentiment|A|Meeseeks and Destroy/Rixty Minutes/Rick|0000FD
@@ -33,96 +32,111 @@
 1637151135|sentiment|A|Meeseeks and Destroy/Rixty Minutes/Ricksy Business/Morty|0000F4
 1637151135|sentiment|A|Meeseeks and Destroy/Rixty Minutes/Ricksy Business/Summer|0000FC
 1637151135|sentiment|A|Meeseeks and Destroy/Rixty Minutes/Ricksy Business/Jerry|0000F8
-1637151135|sentiment|A|Meeseeks and Destroy/Rixty Minutes/Ricksy Business/Lucy|0000FA
+1637151135|sentiment|A|Meeseeks and Destroy/Rixty Minutes/Ricksy Business/Beth|5F0000
 1637237535|sentiment|A|Mortynight Run/
 1637237535|sentiment|A|Mortynight Run/Rick|0000DE
 1637237535|sentiment|A|Mortynight Run/Morty|FC0000
 1637237535|sentiment|A|Mortynight Run/Jerry|0000F3
-1637237535|sentiment|A|Mortynight Run/Fart|0000EB
-1637237535|sentiment|A|Mortynight Run/Announcer|0000CD
 1637323935|sentiment|A|Mortynight Run/Auto Erotic Assimilation/
 1637323935|sentiment|A|Mortynight Run/Auto Erotic Assimilation/Rick|000086
 1637410335|sentiment|A|Mortynight Run/Auto Erotic Assimilation/The Ricks Must Be Crazy/
 1637410335|sentiment|A|Mortynight Run/Auto Erotic Assimilation/The Ricks Must Be Crazy/Rick|FD0000
 1637410335|sentiment|A|Mortynight Run/Auto Erotic Assimilation/The Ricks Must Be Crazy/Morty|FB0000
-1637410335|sentiment|A|Mortynight Run/Auto Erotic Assimilation/The Ricks Must Be Crazy/Zeep|0000FD
 1637410335|sentiment|A|Mortynight Run/Auto Erotic Assimilation/The Ricks Must Be Crazy/Summer|E90000
-1637410335|sentiment|A|Mortynight Run/Auto Erotic Assimilation/The Ricks Must Be Crazy/Ship|0000FB
 1637496735|sentiment|A|Interdimensional Cable 2: Tempting Fate/
 1637496735|sentiment|A|Interdimensional Cable 2: Tempting Fate/Rick|0000FB
 1637496735|sentiment|A|Interdimensional Cable 2: Tempting Fate/Jerry|0000FD
-1637496735|sentiment|A|Interdimensional Cable 2: Tempting Fate/Alien Doctor|0000FC
 1637496735|sentiment|A|Interdimensional Cable 2: Tempting Fate/Beth|8B0000
 1637496735|sentiment|A|Interdimensional Cable 2: Tempting Fate/Morty|0000F0
+1637496735|sentiment|A|Interdimensional Cable 2: Tempting Fate/Summer|690000
 1637583135|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/
 1637583135|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/Rick|0000ED
 1637583135|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/Beth|0000EE
 1637583135|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/Jerry|F50000
 1637583135|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/Morty|0000EA
-1637583135|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/Squanchy|00007D
+1637583135|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/Summer|0000E7
 1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/
 1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/Rick|FB0000
 1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/Morty|FA0000
 1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/Summer|F80000
-1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/Cornvelious Daniel|0000FB
 1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/Jerry|B40000
+1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/Beth|0000EA
+1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/Young Rick|00006A
+1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/Weird Rick|0000F4
+1637669535|sentiment|A|Interdimensional Cable 2: Tempting Fate/The Wedding Squanchers/The Rickshank Rickdemption/Guard Rick|F50000
 1637755935|sentiment|A|Rickmancing the Stone/
 1637755935|sentiment|A|Rickmancing the Stone/Rick|0000FC
 1637755935|sentiment|A|Rickmancing the Stone/Morty|D90000
 1637755935|sentiment|A|Rickmancing the Stone/Summer|0000EE
-1637755935|sentiment|A|Rickmancing the Stone/Hemorrhage|DF0000
 1637755935|sentiment|A|Rickmancing the Stone/Beth|00007F
+1637755935|sentiment|A|Rickmancing the Stone/Jerry|0000EA
 1637842335|sentiment|A|Rickmancing the Stone/Pickle Rick/
 1637842335|sentiment|A|Rickmancing the Stone/Pickle Rick/Pickle Rick|0000FC
 1637842335|sentiment|A|Rickmancing the Stone/Pickle Rick/Beth|0000EC
 1637842335|sentiment|A|Rickmancing the Stone/Pickle Rick/Morty|0000DE
-1637842335|sentiment|A|Rickmancing the Stone/Pickle Rick/Dr. Wong|0000FB
-1637842335|sentiment|A|Rickmancing the Stone/Pickle Rick/Agency Director|C60000
+1637842335|sentiment|A|Rickmancing the Stone/Pickle Rick/Rick|9F0000
+1637842335|sentiment|A|Rickmancing the Stone/Pickle Rick/Summer|AE0000
 1637928735|sentiment|A|Rickmancing the Stone/Pickle Rick/Vindicators 3: The Return of Worldender/
 1637928735|sentiment|A|Rickmancing the Stone/Pickle Rick/Vindicators 3: The Return of Worldender/Rick|0000FD
 1637928735|sentiment|A|Rickmancing the Stone/Pickle Rick/Vindicators 3: The Return of Worldender/Morty|EA0000
-1637928735|sentiment|A|Rickmancing the Stone/Pickle Rick/Vindicators 3: The Return of Worldender/Supernova|0000FC
 1637928735|sentiment|A|Rickmancing the Stone/Pickle Rick/Vindicators 3: The Return of Worldender/Drunk Rick|EF0000
-1637928735|sentiment|A|Rickmancing the Stone/Pickle Rick/Vindicators 3: The Return of Worldender/Million Ants|710000
+1637928735|sentiment|A|Rickmancing the Stone/Pickle Rick/Vindicators 3: The Return of Worldender/Beth|000000
+1637928735|sentiment|A|Rickmancing the Stone/Pickle Rick/Vindicators 3: The Return of Worldender/Summer|000000
 1638015135|sentiment|A|Rattlestar Ricklactica/
 1638015135|sentiment|A|Rattlestar Ricklactica/Rick|0000FA
 1638015135|sentiment|A|Rattlestar Ricklactica/Morty|0000FC
 1638015135|sentiment|A|Rattlestar Ricklactica/President Morty|0000D6
-1638015135|sentiment|A|Rattlestar Ricklactica/Crowscare|0000F0
-1638015135|sentiment|A|Rattlestar Ricklactica/Mr. Poopybutthole|0000FC
+1638015135|sentiment|A|Rattlestar Ricklactica/Jerry|00005C
+1638015135|sentiment|A|Rattlestar Ricklactica/Beth|0000C2
+1638015135|sentiment|A|Rattlestar Ricklactica/Summer|0000A2
 1638101535|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/
 1638101535|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Rick|0000FC
 1638101535|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Morty|0000FE
 1638101535|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Jerry|C00000
 1638101535|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Beth|0000F6
-1638101535|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Meeseeks|F40000
+1638101535|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Summer|0000F2
 1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/
 1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/Rick|0000FD
 1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/Summer|0000FD
 1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/Morty|0000CC
 1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/Beth|0000E1
 1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/Jerry|0000A8
+1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/Morty Voiceover|0000E4
+1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/Summer Voiceover|00007D
+1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/Hothead Rick|E60000
+1638187935|sentiment|A|Rattlestar Ricklactica/Never Ricking Morty/Mortyplicity/Little Ricky|000000
 1638274335|sentiment|A|Rickdependence Spray/
 1638274335|sentiment|A|Rickdependence Spray/Rick|FB0000
 1638274335|sentiment|A|Rickdependence Spray/Morty|FA0000
 1638274335|sentiment|A|Rickdependence Spray/Summer|F80000
-1638274335|sentiment|A|Rickdependence Spray/Cornvelious Daniel|0000FB
 1638274335|sentiment|A|Rickdependence Spray/Jerry|B40000
+1638274335|sentiment|A|Rickdependence Spray/Beth|0000EA
+1638274335|sentiment|A|Rickdependence Spray/Young Rick|00006A
+1638274335|sentiment|A|Rickdependence Spray/Weird Rick|0000F4
+1638274335|sentiment|A|Rickdependence Spray/Guard Rick|F50000
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Rick|FB0000
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Morty|FA0000
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Summer|F80000
-1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Cornvelious Daniel|0000FB
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Jerry|B40000
+1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Beth|0000EA
+1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Young Rick|00006A
+1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Weird Rick|0000F4
+1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Guard Rick|F50000
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/Rick|0000FD
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/Summer|0000FD
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/Morty|0000AB
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/Beth|0000E1
 1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/Jerry|0000A8
+1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/Morty Voiceover|0000E4
+1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/Summer Voiceover|00007D
+1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/Hothead Rick|E60000
+1638274335|sentiment|A|Rickdependence Spray/Rick & Morty's Thanksploitation Spectacular/Gotron Jerrysis Rickvangelion/Little Ricky|000000
 1638274335|sentiment|A|Rickmurai Jack/
 1638274335|sentiment|A|Rickmurai Jack/Rick|0000FA
 1638274335|sentiment|A|Rickmurai Jack/Morty|0000FC
 1638274335|sentiment|A|Rickmurai Jack/President Morty|0000D6
-1638274335|sentiment|A|Rickmurai Jack/Crowscare|0000F0
-1638274335|sentiment|A|Rickmurai Jack/Mr. Poopybutthole|0000FC
+1638274335|sentiment|A|Rickmurai Jack/Jerry|00005C
+1638274335|sentiment|A|Rickmurai Jack/Beth|0000C2
+1638274335|sentiment|A|Rickmurai Jack/Summer|0000A2
